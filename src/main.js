@@ -40,7 +40,7 @@ const routes = [
       //{ path: '/main', component: Main },
       { path: '/table', component: Table, name: 'Table' },
       { path: '/form', component: Form, name: 'Form' },
-      { path: '/page3', component: Page3, name: '页面3' },
+      { path: '/page3', component: Page3, name: '页面33' },
     ]
   },
   {
